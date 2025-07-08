@@ -12,3 +12,4 @@
 
 *MENTOR*:NEELA SANTOSH KUMAR
 
+OUTPUT:-  <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/2474ae45-22aa-4363-af88-4596a09fc8b2"
