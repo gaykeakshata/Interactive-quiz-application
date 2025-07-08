@@ -1,0 +1,71 @@
+*{
+  
+  position: -webkit-sticky;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+  padding-inline-end: 2%;
+  margin: 0;
+  background-image: url("https://png.pngtree.com/background/20230317/original/pngtree-beautiful-background-of-high-rise-buildings-picture-image_2148726.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  max-width: 500px;
+  margin: 150px auto;
+  background: #fff;
+  padding: 1px;
+  border-radius: 1px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  text-align: center;
+  right: 200px;
+ 
+}
+
+.btn-grid 
+{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+button 
+{
+  padding: 10px 15px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background-color: #3498db;
+  color: white;
+}
+
+button.correct 
+{
+  background-color: #2ecc71;
+}
+
+button.wrong 
+{
+  background-color: #e74c3c;
+}
+
+.next-btn 
+{
+  margin-top: 20px;
+  display: none;
+}
+
+#timer {
+  font-weight: bold;
+  margin-top: 10px;
+  color: #e67e22;
+}
+
+.hide {
+  display: none;
+}
